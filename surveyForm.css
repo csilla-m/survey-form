@@ -1,0 +1,28 @@
+body {
+    margin-top: 25px;
+    line-height: 1.5em;
+    background-color: #f9f3ed;
+}
+
+form {
+    min-width: 240px;
+    border: solid 1px black;
+    padding: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+}
+
+#title, #description{
+    text-align: center;
+}
+
+#name, #email, #number, #dropdown, #suggestions {
+    margin-left: 10px;
+    padding-left: 5px;
+}
+
+.radio-button, .checkbox{
+    margin-left: 5%;
+    padding-top: 2%;
+}
